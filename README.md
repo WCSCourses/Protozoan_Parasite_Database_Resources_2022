@@ -12,22 +12,6 @@ The course is free to attend and open to research scientists and clinicians/clin
 
 This is a virtual course, breakout rooms will be heavily used to ensure adequate teacher/student ratio and to foster active discussion. Lectures will be recorded and made available to students.
 
-# Target audience
-
-The course is open to scientists or healthcare professionals based in Africa working with protozoan parasitic organisms.
-
-The programme will include lectures, discussions and practical computational sessions covering the following topics:
-
-Visualisation of sequence features and next generation sequencing data using the Artemis genome browser and annotation tool
-Genome browsing and comparative genomics (ACT and J/GBrowse)
-Formulating complex biological queries using the VEuPathDB search strategy system
-Web-based resources including the GeneDB.org and VEuPathDB.org and GalaxyIntegrating functional genomics data (RNA-seq, ChIP-seq, ChIP-chip, microarrays, proteomics, etc) with genome sequence data
-Theoretical aspects of genome re-sequencing
-Querying genetic diversity on a genome-wide scale
-Metabolic pathways and pathway and GO enrichment analysis
-Working with next-generation sequence data (mapping, variant calling, RNA-Seq etc) using both command-line and web-based (Galaxy) methods
-Introduction to community curation tools
-Participants are encouraged to bring their own data, to use in consultation and/or in-workshop analysis
 
 # Learning Outcomes
 
@@ -43,10 +27,6 @@ Apply software and web-based services to browse genomes and to display genome co
 
 Integrate and query large-scale genomic and functional genomic databases to answer biology-related research questions and develop testable hypotheses
  
-
-# Prerequisites
-
-Applicants should be Africa-based scientists or healthcare professionals working with protozoan parasitic organisms.
 
  # Instructors and Speakers
  
