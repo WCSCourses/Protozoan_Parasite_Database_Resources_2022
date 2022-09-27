@@ -45,10 +45,15 @@ Applicants should be Africa-based scientists or healthcare professionals working
  # Instructors and Speakers
  
  Luisa Berná - Institut Pasteur de Montevideo, Uruguay
+ 
  Ulrike Böhme - Wellcome Sanger Institute, UK
+ 
  Omar Harb - University of Pennsylvania, USA
+ 
  Collins Misita - University of Ghana, Ghana
+ 
  Thomas Otto - University of Glasgow, UK
+ 
  Dinkorma Ouologuem Toure - Université des Science, Techniques et des Technologies de Bamako, Mali
  
  
