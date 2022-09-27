@@ -62,4 +62,19 @@ Applicants should be Africa-based scientists or healthcare professionals working
  
  Dinkorma Ouologuem Toure - Université des Science, Techniques et des Technologies de Bamako, Mali
  
+ # Course Manual
+ 
+ VEuPathDB
+ 
+ Artemis & ACT
+ 
+ RNAseq
+ 
+ Introduction to HTS & mapping
+ 
+ Orthology
+ 
+ GO enrichment analysis 
+ 
+ Host response
  
