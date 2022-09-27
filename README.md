@@ -33,10 +33,14 @@ Participants are encouraged to bring their own data, to use in consultation and/
 
 After attending this course, participants should be able to:
 
-Use state-of-the-art bioinformatics software including web-based resources as well as in a UNIX-like environment to explore parasite datasets.
+Use state-of-the-art bioinformatics software including web-based resources as well as in a UNIX-like environment to explore parasite datasets
+
 Identify opportunities and limitations of the different methodologies in analysing parasite genomics data
-Apply software and web-based resources to visualise and analyse next generation sequencing datasets for parasitology research.
-Apply software and web-based services to browse genomes and to display genome comparisons.
+
+Apply software and web-based resources to visualise and analyse next generation sequencing datasets for parasitology research
+
+Apply software and web-based services to browse genomes and to display genome comparisons
+
 Integrate and query large-scale genomic and functional genomic databases to answer biology-related research questions and develop testable hypotheses
  
 
