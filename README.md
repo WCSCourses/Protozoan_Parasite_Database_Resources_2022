@@ -1,4 +1,4 @@
-# Protozoan_Parasite_Database_Resources_2022
+# Working with Protozoan Parasite Database Resources 2022 (Africa)
 Learn how to use online resources for genomic-scale data analysis of protozoan parasites
 This course aims to provide Africa-based biomedical researchers and scientists working on protozoan parasites with hands-on experience in genomic-scale data analysis; including genome browsers and comparison tools, primary data analysis, methods for data integration and resources for sophisticated data mining (including the VEuPathDB search strategy system).
 
@@ -10,7 +10,7 @@ The course is free to attend and open to research scientists and clinicians/clin
 
 This is a virtual course, breakout rooms will be heavily used to ensure adequate teacher/student ratio and to foster active discussion. Lectures will be recorded and made available to students.
 
-Target audience
+# Target audience
 
 The course is open to scientists or healthcare professionals based in Africa working with protozoan parasitic organisms.
 
@@ -27,7 +27,7 @@ Working with next-generation sequence data (mapping, variant calling, RNA-Seq et
 Introduction to community curation tools
 Participants are encouraged to bring their own data, to use in consultation and/or in-workshop analysis
 
-Learning Outcomes
+# Learning Outcomes
 
 After attending this course, participants should be able to:
 
@@ -38,11 +38,11 @@ Apply software and web-based services to browse genomes and to display genome co
 Integrate and query large-scale genomic and functional genomic databases to answer biology-related research questions and develop testable hypotheses
  
 
-Prerequisites
+# Prerequisites
 
 Applicants should be Africa-based scientists or healthcare professionals working with protozoan parasitic organisms.
 
- >b>Instructors and Speakers
+ # Instructors and Speakers
  
  Luisa Berná - Institut Pasteur de Montevideo, Uruguay
  Ulrike Böhme - Wellcome Sanger Institute, UK
