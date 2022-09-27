@@ -1,3 +1,5 @@
+<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200"> 
+
 # Working with Protozoan Parasite Database Resources 2022 (Africa)
 Learn how to use online resources for genomic-scale data analysis of protozoan parasites
 This course aims to provide Africa-based biomedical researchers and scientists working on protozoan parasites with hands-on experience in genomic-scale data analysis; including genome browsers and comparison tools, primary data analysis, methods for data integration and resources for sophisticated data mining (including the VEuPathDB search strategy system).
