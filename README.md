@@ -32,7 +32,7 @@ Integrate and query large-scale genomic and functional genomic databases to answ
  
  Luisa Berná - Institut Pasteur de Montevideo, Uruguay
  
- Ulrike Böhme - Wellcome Sanger Institute, UK
+ Ulrike Böhme - University of Liverpool, UK
  
  Omar Harb - University of Pennsylvania, USA
  
