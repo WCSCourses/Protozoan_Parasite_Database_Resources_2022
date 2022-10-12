@@ -34,7 +34,7 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  - [Artemis](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_1_Artemis.pdf) & [ACT](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_2_Comparative_Genomics.pdf)
  
- - [RNAseq] (https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/4_JBrowse_RNAseqII.pdf)
+ - [RNAseq](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/4_JBrowse_RNAseqII.pdf)
  
  Day 2:
  
