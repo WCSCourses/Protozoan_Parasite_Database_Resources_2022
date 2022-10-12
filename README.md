@@ -30,7 +30,7 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  VEuPathDB
  
- Artemis & ACT
+ - [Artemis](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_1_Artemis.pdf) & ACT
  
  RNAseq
  
