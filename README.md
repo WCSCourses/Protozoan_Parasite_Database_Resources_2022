@@ -36,7 +36,7 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  - [Genome Browser Basics](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/3_JBrowseBasics.pdf)
  
- - [RNAseq](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/4_JBrowse_RNAseqII.pdf)
+ - [RNAseq (Browser)](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/4_JBrowse_RNAseqII.pdf)
  
  Day 2:
  
