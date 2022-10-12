@@ -30,7 +30,7 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  Day 1:
  
- - [VEuPathDB](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/6b_Proteomics.pdf)
+ - VEuPathDB
  
  - [Artemis](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_1_Artemis.pdf) & [ACT](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_2_Comparative_Genomics.pdf)
  
@@ -40,15 +40,26 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  Day 2:
  
- Introduction to HTS & mapping
+ - Introduction to HTS & mapping
  
  - [Variation searches in VEuPathDB: SNPs & CNVs](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/5_Population_Biology_SNPs_CNVs_2022.pdf) 
  
  Day 3: 
  
+ - Intro to RNA Seq Analysis
+ 
+ - [Transcriptomics/proteomic searches in VEuPathDB] (https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/6b_Proteomics.pdf)
+ 
  - [Orthology](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/7_Orthology_Phyletic_Patterns.pdf)
+
+- RNAseq Linux
  
- GO enrichment analysis 
+ Day 4:
  
- Host response
+- GO enrichment analysis 
  
+- Host response
+ 
+Day 5:
+
+- Group projects
