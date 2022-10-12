@@ -30,15 +30,25 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  Day 1:
  
- - VEuPathDB
+ - Basic searches in VEuPathDB – Site search, filtering, finding genes
+
+ - The gene page in VEuPathDB
  
- - [Artemis](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_1_Artemis.pdf) & [ACT](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_2_Comparative_Genomics.pdf)
+ - [Introduction to Artemis](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_1_Artemis.pdf)  
  
  - [Genome Browser Basics](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/3_JBrowseBasics.pdf)
  
  - [RNAseq (Browser)](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/4_JBrowse_RNAseqII.pdf)
+
+- Group exercise: Interpreting RNAseq data in the genome browser/Apollo
+
+- Group exercise: Genome annotation with Companion
  
  Day 2:
+ 
+ - Group exercise: Companion results analysis. [ACT](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_2_Comparative_Genomics.pdf)
+ 
+ - Introduction to Linux
  
  - Introduction to HTS & mapping
  
