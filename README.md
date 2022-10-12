@@ -52,7 +52,7 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  - [Orthology](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/7_Orthology_Phyletic_Patterns.pdf)
 
-- RNAseq Linux
+- RNAseq (Linux)
  
  Day 4:
  
