@@ -52,13 +52,13 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  - Introduction to Linux
  
- - Introduction to HTS & mapping
+ - [Introduction to HTS & mapping](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_Mapping.pdf)
  
  - [Variation searches in VEuPathDB: SNPs & CNVs](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/5_Population_Biology_SNPs_CNVs_2022.pdf) 
  
  Day 3: 
  
- - Intro to RNA Seq Analysis
+ - Intro to RNA Seq Analysis - will be a talk - slides will come.
  
  - [Transcriptomics/proteomic searches in VEuPathDB](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/6b_Proteomics.pdf)
  
