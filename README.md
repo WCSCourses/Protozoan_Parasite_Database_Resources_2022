@@ -34,7 +34,7 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  - Basic searches in VEuPathDB – Site search, filtering, finding genes
 
- - [The gene page in VEuPathDB] (https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/2_Exploring_the_Gene_Page.pdf) 
+ - [The gene page in VEuPathDB](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/2_Exploring_the_Gene_Page.pdf)
  
  - [Introduction to Artemis](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_1_Artemis.pdf)  
  
