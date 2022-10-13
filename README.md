@@ -33,8 +33,8 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  Day 1:
  
  - [Basic searches in VEuPathDB – Site search](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/1_SiteSearch_PlasmoDB.pdf)
-
 - [Basic searches in VEuPathDB – Search strategies](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/1b_SearchStrategies_Exercise_PlasmoDB.pdf)
+- [Basic searches in VEuPathDB – Organism Preferences (optional exercise)](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/1c_Organism_Preferences.pdf)
 
  - [The gene page in VEuPathDB](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/2_Exploring_the_Gene_Page.pdf)
  
