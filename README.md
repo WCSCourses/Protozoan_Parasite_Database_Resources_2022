@@ -46,7 +46,9 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  Day 2:
  
- - Group exercise: Companion results analysis. [ACT](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_2_Comparative_Genomics.pdf)
+  - [Group exercise: Companion results analysis](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/6b_Companion_2.pdf)
+ 
+ - Companion results analysis. [Comparative Genomics](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_2_Comparative_Genomics.pdf)
  
  - Introduction to Linux
  
