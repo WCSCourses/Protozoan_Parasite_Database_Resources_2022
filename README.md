@@ -44,7 +44,7 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
 
 - [Group exercise: Interpreting RNAseq data in the genome browser/Apollo](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/4_JBrowse_RNAseqII.pdf)
 
-- Group exercise: Genome annotation with Companion
+- [Group exercise: Genome annotation with Companion](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/6a_Companion_1.pdf)
  
  Day 2:
  
