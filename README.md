@@ -22,6 +22,8 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  - [Collins Misita](https://www.linkedin.com/in/collins-moranga/) - University of Ghana, Ghana
  
+ - [Rowland Osii](https://www.linkedin.com/in/rowland-osii-97906b4a/) - University of Glasgow, UK
+ 
  - [Thomas Otto](https://www.gla.ac.uk/schools/infectionimmunity/staff/thomasdanotto/) - University of Glasgow, UK
  
  - [Dinkorma Ouologuem Toure](https://www.linkedin.com/in/dinkorma-ouologuem-toure-75987234/) - Université des Science, Techniques et des Technologies de Bamako, Mali
