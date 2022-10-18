@@ -1,4 +1,5 @@
-<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200"> 
+<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="200" height="200">
+
 # Working with Protozoan Parasite Database Resources 2022 (Africa)
 
 Learn how to use online resources for genomic-scale data analysis of protozoan parasites
