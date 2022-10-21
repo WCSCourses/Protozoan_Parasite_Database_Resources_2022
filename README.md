@@ -64,18 +64,15 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  - Intro to RNA Seq Analysis - will be a talk - slides will come.
  - Group exercise: Starting and RNA Seq analysis workflow in Galaxy
-  - [Groups]
-  (https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/RNAseq%20groups.pdf)
-  - [RNA Seq in Galaxy part 1]
-  (https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/RNAseq_Mapping_Galaxy_part1.pdf)
+  - [Groups] (https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/RNAseq%20groups.pdf)
+  - [RNA Seq in Galaxy part 1] (https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/RNAseq_Mapping_Galaxy_part1.pdf)
  
  - [Transcriptomics/proteomic searches in VEuPathDB](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/6b_Proteomics.pdf)
  
  - [Orthology](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/7_Orthology_Phyletic_Patterns.pdf)
  
  Day 4:
-- [Exploring RNA Seq results from Galaxy part 2, including analysis of results in VEuPathDB]
-(https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/RNAseq_Mapping_Galaxy_part2.pdf)
+- [Exploring RNA Seq results from Galaxy part 2, including analysis of results in VEuPathDB] (https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/RNAseq_Mapping_Galaxy_part2.pdf)
  
 - Host response
  
