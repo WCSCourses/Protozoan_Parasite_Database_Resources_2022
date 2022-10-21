@@ -64,7 +64,9 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  - Intro to RNA Seq Analysis - will be a talk - slides will come.
  
- - [Transcriptomics/proteomic searches in VEuPathDB](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/6b_Proteomics.pdf)
+ - [Transcriptomic searches in VEuPathDB](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/6a_Transcriptomics.pdf)
+
+- [Proteomic searches in VEuPathDB](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/6b_Proteomics.pdf)
  
  - [Orthology](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/7_Orthology_Phyletic_Patterns.pdf)
  
