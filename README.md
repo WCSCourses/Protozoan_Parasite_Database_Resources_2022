@@ -80,7 +80,7 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
 - [Exploring RNA Seq results from Galaxy part 2, including analysis of results in VEuPathDB](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/RNAseq_Mapping_Galaxy_part2.pdf)
  
-- Host response 
+- [Host response](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Host_response_WTC2022.pdf)
  
 Day 5:
 
