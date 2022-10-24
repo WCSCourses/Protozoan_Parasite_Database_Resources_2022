@@ -56,7 +56,7 @@ Learn how to use online resources for genomic-scale data analysis of protozoan p
  
  - Companion results analysis. [Comparative Genomics](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_2_Comparative_Genomics.pdf)
  
- - Introduction to Linux
+ - [Introduction to Linux](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Introduction%20to%20linux%20-%20Practical.pdf)
  
  - [Introduction to HTS & mapping](https://github.com/WCSCourses/Protozoan_Parasite_Database_Resources_2022/blob/main/Manuals/Module_Mapping.pdf)
  
